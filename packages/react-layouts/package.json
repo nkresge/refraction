@@ -21,7 +21,8 @@
     "react": "^16.0.0"
   },
   "peerDependencies": {
-    "react": "15||16"
+    "react": "15||16",
+    "react-router-dom": "^4.0.0"
   },
   "dependencies": {
     "@emotion/core": "^10.0.4",
