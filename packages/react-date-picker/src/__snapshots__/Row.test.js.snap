@@ -45,7 +45,7 @@ exports[`renders the expected markup 1`] = `
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   background-color: #6C7983;
-  color: #E3E6E8;
+  color: #FFFFFF;
   font-family: IBM Plex Sans,Lucida Grande,Tahoma,Verdana,Arial,sans-serif;
   font-size: 14px;
   line-height: 1.57;
